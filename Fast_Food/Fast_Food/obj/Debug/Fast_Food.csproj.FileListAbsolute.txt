@@ -1,0 +1,9 @@
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\bin\Debug\Fast_Food.exe.config
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\bin\Debug\Fast_Food.exe
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\bin\Debug\Fast_Food.pdb
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\obj\Debug\Fast_Food.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\obj\Debug\Fast_Food.Properties.Resources.resources
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\obj\Debug\Fast_Food.csproj.GenerateResource.Cache
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\obj\Debug\Fast_Food.exe
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\obj\Debug\Fast_Food.pdb
+c:\users\daisy\documents\visual studio 2012\Projects\Fast_Food\Fast_Food\obj\Debug\Fast_Food.Jeremy.resources
